@@ -6,3 +6,5 @@ I like to fill templates with almost no effort 😂
 - 💬 Ask me about some music
 - 📫 How to reach me: see the sidebar
 - ⚡ [K8S learning journal](https://github.com/josegomezr/k8s-learning)
+
+![Metrics](/github-metrics.svg)
